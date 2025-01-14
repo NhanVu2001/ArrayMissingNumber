@@ -1,4 +1,4 @@
-Open project using Intellij and navigate to Main.java
+Open project using Intellij and navigate to Main.java, click run to start the program
 
 When ran, program will ask you to enter a number to determine array's size
 
